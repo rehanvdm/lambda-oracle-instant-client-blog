@@ -2,7 +2,7 @@
 
 ----
 
-### This repo forms part of a blog post made here => 
+### This repo forms part of a blog post made here => https://www.rehanvdm.com/serverless/an-unexpected-journey-with-lambda-oracledb/index.html
 
 ----
 
